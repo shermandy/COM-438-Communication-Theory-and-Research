@@ -1,4 +1,4 @@
-# Chapter A Study Guide
+# Chapter A - Concepts and Models
 1.	In the scope of history, how is the influence of mass media perceived? 
 2.	What were the three important ideas as media began to be studied?
 3.	What led to concern over the power of mass media?
