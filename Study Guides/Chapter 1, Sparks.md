@@ -1,5 +1,5 @@
 # Chapter 1 - A Scientific Approach to the Study of Media Effects
-While you wait for your textbook to arrive, you can [read this chapter online in the Google Books preview](https://books.google.com/books?id=vRSdBQAAQBAJ&pg=PA1&source=gbs_toc_r&cad=4#v=onepage&q&f=false).
+While you wait for your textbook to arrive, you can [read this chapter online in the Google Books preview](https://books.google.com/books?id=vRSdBQAAQBAJ&pg=PA1&source=gbs_toc_r&cad=4#v=onepage&q&f=false) or [from my scanned copy](https://www.dropbox.com/s/zdudjddhq09wip0/Chapter%201%2C%20Sparks.pdf?dl=0).
 1. What are the benefits and drawbacks of the three “Ways of Knowing”?
 2. Why does personal experience make for a poor means for “knowing” in the case of media effects?
 3. What is authority? What are issues related to “knowing” by authority?
