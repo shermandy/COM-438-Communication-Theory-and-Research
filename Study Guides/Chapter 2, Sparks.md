@@ -1,4 +1,4 @@
-# Chapter 1 - A Scientific Approach to the Study of Media Effects
+# Chapter 2 - Scientific Methods in Media Effects Research
 1.	What are the three primary methods of discovering media effects?
 2.	What is the purpose of a content analysis?
 3.	Why is a content analysis beneficial for study of media effects?
