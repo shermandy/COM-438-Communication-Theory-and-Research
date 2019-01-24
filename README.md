@@ -16,3 +16,4 @@
 ## Week 3
 ### Tuesday
 * Discuss Chapter 2, Sparks
+* Discuss students' answers to [Chapter 2 study guide](Study%20Guides/Chapter%202%2C%20Sparks.md)
