@@ -12,7 +12,7 @@
 * Discuss [Chapter A, Concepts and Models](https://www.dropbox.com/s/27ak7twh3d4mzcv/Ch%20A%20-%20Concepts%20and%20Models.pdf?dl=0)
 * Discuss students' answers to [Chapter A study guide](Study%20Guides/Chapter%20A.md)
 ### Thursday
-* Exam 1 - Chapters 1 and A
+* Exam 1 - Chapters 1 (Sparks) and A (McQuail)
 ## Week 3
 ### Tuesday
 * Discuss Chapter 2, Sparks
