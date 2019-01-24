@@ -15,4 +15,4 @@
 * Exam 1 - Chapters 1 and A
 ## Week 3
 ### Tuesday
-* Discuss
+* Discuss 2, Sparks
