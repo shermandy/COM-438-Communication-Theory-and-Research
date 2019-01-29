@@ -21,6 +21,6 @@
 * Discuss [Chapter B, Elements of Research](https://www.dropbox.com/s/76epudd3v491jid/Ch%20B%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
 ## Week 4
 ### Tuesday
-* Discuss Chapter C, Sampling, Wimmer & Dominick
+* Discuss [Chapter C, Sampling](https://www.dropbox.com/s/50wl3fxsmayf2yh/Ch%20C%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
 ### Thursday
 * Exam 2, Chapters 2 (Sparks), B and C (Wimmer and Dominick)
