@@ -1,3 +1,4 @@
+# Chapter B - Elements of Research
 1.	What is a concept and what purpose do they serve?
 2.	What is a construct?
 3.	What is the difference between Independent variables (IV) and Dependent variables (DV)?
