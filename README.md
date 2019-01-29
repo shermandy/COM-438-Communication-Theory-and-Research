@@ -23,4 +23,4 @@
 ### Tuesday
 * Discuss Chapter C, Sampling, Wimmer & Dominick
 ### Thursday
-* Exam 2, Chapters 2 (Sparks, B and C (Wimmer and Dominick)
+* Exam 2, Chapters 2 (Sparks), B and C (Wimmer and Dominick)
