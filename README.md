@@ -23,5 +23,6 @@
 ## Week 4
 ### Tuesday
 * Discuss [Chapter C, Sampling](https://www.dropbox.com/s/50wl3fxsmayf2yh/Ch%20C%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
+* Discuss students' answers to [Chapter C study guide](Study%20Guides/Chapter%20B%2C%20Wimmer%20%26%20Dominick.md)
 ### Thursday
 * Exam 2, Chapters 2 (Sparks), B and C (Wimmer and Dominick)
