@@ -18,4 +18,4 @@
 * Discuss Chapter 2, Sparks
 * Discuss students' answers to [Chapter 2 study guide](Study%20Guides/Chapter%202%2C%20Sparks.md)
 ### Thursday
-* Discuss [Chapter B, Elements of Research](https://www.dropbox.com/s/76epudd3v491jid/Ch%20B%2C%20Wimmer%20and%20Dominick.pdf?dl=1)
+* Discuss [Chapter B, Elements of Research](https://www.dropbox.com/s/76epudd3v491jid/Ch%20B%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
