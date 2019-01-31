@@ -18,11 +18,14 @@
 * Discuss Chapter 2, Sparks
 * Discuss students' answers to [Chapter 2 study guide](Study%20Guides/Chapter%202%2C%20Sparks.md)
 ### Thursday
-* Discuss [Chapter B, Elements of Research](https://www.dropbox.com/s/76epudd3v491jid/Ch%20B%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
-* Discuss students' answers to [Chapter B study guide](Study%20Guides/Chapter%20B%2C%20Wimmer%20%26%20Dominick.md)
+* **Class cancelled due to weather**
 ## Week 4
 ### Tuesday
+* Discuss [Chapter B, Elements of Research](https://www.dropbox.com/s/76epudd3v491jid/Ch%20B%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
+* Discuss students' answers to [Chapter B study guide](Study%20Guides/Chapter%20B%2C%20Wimmer%20%26%20Dominick.md)
+### Thursday
 * Discuss [Chapter C, Sampling](https://www.dropbox.com/s/50wl3fxsmayf2yh/Ch%20C%2C%20Wimmer%20and%20Dominick.pdf?dl=1), Wimmer & Dominick
 * Discuss students' answers to [Chapter C study guide](Study%20Guides/Chapter%20C,%20Wimmer%20&%20Dominick.md)
-### Thursday
+## Week 5
+### Tuesday
 * Exam 2, Chapters 2 (Sparks), B and C (Wimmer and Dominick)
