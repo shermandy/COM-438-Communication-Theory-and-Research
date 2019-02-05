@@ -15,7 +15,7 @@
 14.	What is an operational definition and why are they important?
 15.	What are some of the benefits of Qualitative methods?
 16.	What are some of the drawbacks of Qualitative methods?
-17.	“Qualitative research requires that the variables under consideration be measured.” What does that mean?
+17.	“Quantitative research requires that the variables under consideration be measured.” What does that mean?
 18.	What is the primary difference between Qualitative and Quantitative methods?
 19.	In research, what does “triangulation” mean?
 20.	What is at the heart of any measurement system?
