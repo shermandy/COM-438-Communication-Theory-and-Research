@@ -9,7 +9,7 @@
 * Discuss students' answers to [Chapter 1 study guide](Study%20Guides/Chapter%201%2C%20Sparks.md)
 ## Week 2
 ### Tuesday
-* Discuss [Chapter A, Concepts and Models](https://www.dropbox.com/s/27ak7twh3d4mzcv/Ch%20A%20-%20Concepts%20and%20Models.pdf?dl=0) (McQuail)
+* Discuss [Chapter A, Concepts and Models](https://www.dropbox.com/s/27ak7twh3d4mzcv/Ch%20A%20-%20Concepts%20and%20Models.pdf?dl=0), McQuail
 * Discuss students' answers to [Chapter A study guide](Study%20Guides/Chapter%20A.md)
 ### Thursday
 * Exam 1 - Chapters 1 (Sparks) and A (McQuail)
@@ -30,8 +30,8 @@
 ### Tuesday
 * Exam 2, Chapters 2 (Sparks), B and C (Wimmer and Dominick)
 ### Thursday
-* Dicuss Chapter 3, A Brief History of Media Effects Research (Sparks)
+* Dicuss Chapter 3, A Brief History of Media Effects Research, Sparks
 * Discus students' answers to [Chapter 3 study guide](Study%20Guides/Chapter%203,%20Sparks.md)
 ## Week 6
 ### Tuesday
-* Dicuss Chapter D, [Processes and models of media effects](https://www.dropbox.com/s/aftyz5angqsnsyu/Ch%20D%2C%20McQuail.pdf?dl=1) (McQuail)
+* Dicuss Chapter D, [Processes and models of media effects](https://www.dropbox.com/s/aftyz5angqsnsyu/Ch%20D%2C%20McQuail.pdf?dl=1), McQuail
