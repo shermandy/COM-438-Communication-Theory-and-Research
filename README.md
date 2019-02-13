@@ -37,3 +37,4 @@
 * Dicuss Chapter D, [Processes and models of media effects](https://www.dropbox.com/s/aftyz5angqsnsyu/Ch%20D%2C%20McQuail.pdf?dl=1), McQuail
 * Discuss students' answers to [Chapter D study guide](Study%20Guides/Chapter%20D,%20McQuail.md)
 ### Thursday
+* Exam 3, Chapters 3 (Sparks) and D (McQuail)
