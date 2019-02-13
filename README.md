@@ -34,3 +34,4 @@
 * Discus students' answers to [Chapter 3 study guide](Study%20Guides/Chapter%203,%20Sparks.md)
 ## Week 6
 ### Tuesday
+* Dicuss Chapter D, [Processes and models of media effects](https://www.dropbox.com/s/aftyz5angqsnsyu/Ch%20D%2C%20McQuail.pdf?dl=1) (McQuail)
