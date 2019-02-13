@@ -1,3 +1,4 @@
+# Chapter 3 - A Brief History of Media Effects Research
 * Sparks lists several reasons why knowledge of the history of media effects research is important. Name two of them. 
 * Which of the early media effects examples is now considered to likely be apocryphal?
 * What effort during WWI led to increased acceptance that the media can have an impact on the public?
