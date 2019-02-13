@@ -32,3 +32,5 @@
 ### Thursday
 * Dicuss Chapter 3, A Brief History of Media Effects Research (Sparks)
 * Discus students' answers to [Chapter 3 study guide](Study%20Guides/Chapter%203,%20Sparks.md)
+## Week 6
+### Tuesday
