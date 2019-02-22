@@ -31,7 +31,7 @@
 * Exam 2, Chapters 2 (Sparks), B and C (Wimmer and Dominick)
 ### Thursday
 * Dicuss Chapter 3, A Brief History of Media Effects Research, Sparks
-* Discus students' answers to [Chapter 3 study guide](Study%20Guides/Chapter%203,%20Sparks.md)
+* Discuss students' answers to [Chapter 3 study guide](Study%20Guides/Chapter%203,%20Sparks.md)
 ## Week 6
 ### Tuesday
 * Dicuss Chapter D, [Processes and models of media effects](https://www.dropbox.com/s/aftyz5angqsnsyu/Ch%20D%2C%20McQuail.pdf?dl=1), McQuail
@@ -41,6 +41,7 @@
 ## Week 7
 ### Tuesday
 * Discuss Chapter 4 (Sparks)
+* Discuss students' answers to [Chapter 4 study guide](Study%20Guides/Chapter%204%2C%20Sparks.md)
 ### Thursday
 * Discuss Chapter F
 ## Week 8
