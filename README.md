@@ -38,3 +38,33 @@
 * Discuss students' answers to [Chapter D study guide](Study%20Guides/Chapter%20D,%20McQuail.md)
 ### Thursday
 * Exam 3, Chapters 3 (Sparks) and D (McQuail)
+## Week 7
+### Tuesday
+* Discuss Chapter 4 (Sparks)
+### Thursday
+* Discuss Chapter F
+## Week 8
+### Tuesday
+* Discuss Research Articles
+### Thursday
+* Exam on Chapter 4 (Sparks) and Research Articles
+## Week 9
+### Tuesday
+* Discuss Chapter 9 (Sparks)
+### Thursday
+* Discuss Chapter G
+## Week 10
+### Tuesday
+* Discuss Chapter H
+### Thursday
+* Exam on Chapters 9, G, and H
+## Week 11
+### Tuesday
+* Discuss Chapter 8
+### Thursday
+* Discuss Chapter 8 (continued)
+## Week 12
+### Tuesday
+* Discuss Chapter 12 and Chapter I
+### Thursday
+* Exam on Chapters 8 and 12
