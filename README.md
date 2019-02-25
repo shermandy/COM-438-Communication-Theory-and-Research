@@ -48,7 +48,7 @@
 ### Tuesday
 * Discuss Research Articles
 ### Thursday
-* Exam on Chapter 4 (Sparks) and Research Articles
+* Exam on Chapters 4 (Sparks), F (McQuail), and Research Articles
 ## Week 9
 ### Tuesday
 * Discuss Chapter 9 (Sparks)
