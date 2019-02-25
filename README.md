@@ -44,7 +44,7 @@
 * Discuss students' answers to [Chapter 4 study guide](Study%20Guides/Chapter%204%2C%20Sparks.md)
 ### Thursday
 * Discuss [Chapter F, Audiences](https://www.dropbox.com/s/zsew8hb1f0x1q0z/Chapter%20F%2C%20McQuail.pdf?dl=1), McQuail
-* Discuss students' answers to Chapter F study guide
+* Discuss students' answers to [Chapter F study guide](Study%20Guides/Chapter%20F%2C%20McQuail.md)
 ## Week 8
 ### Tuesday
 * Discuss Research Articles
