@@ -48,7 +48,7 @@
 ## Week 8
 ### Tuesday
 * Discuss Research Articles
-** Article 1
+ * Article 1 - [Health News Agenda Building: Journalists' Perceptions of the Role of Public Relations (Len-Rios, Hinnant, Park, Cameron, Frisby, & Lee, 2009)](https://www.dropbox.com/s/emup5gj5yeh8esn/Article%201.pdf?dl=1)
 * Discuss students' answers to [Research Articles study guide](Study%20Guides/Research%20Articles.md)
 ### Thursday
 * Exam on Chapters 4 (Sparks), F (McQuail), and Research Articles
