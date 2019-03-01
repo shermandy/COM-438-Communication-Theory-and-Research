@@ -51,6 +51,8 @@
   * Article 1 - [Health News Agenda Building: Journalists' Perceptions of the Role of Public Relations (Len-Rios, Hinnant, Park, Cameron, Frisby, & Lee, 2009)](https://www.dropbox.com/s/emup5gj5yeh8esn/Article%201.pdf?dl=1)
   * Article 2 - [Engaging stakeholders through social networking: How nonprofit organizations are using Facebook (Waters, Burnett, Lamm, & Lucas, 2009)](https://www.dropbox.com/s/9yqyieuuwabpw5p/Article%202.pdf?dl=1)
   * Article 3 - [A survey of social media use, motivation and leadership among public relations practitioners (Sweetser and Kelleher, 2011)](https://www.dropbox.com/s/cerhiixzzinziox/Article%203.pdf?dl=1)
+  * Article 4 - [The "Nasty Effect:" Online Incivility and Risk Perceptions of Emerging Technologies (Anderson, Brossard, Scheufele, Xenos, & Lagwig, 2013)](https://www.dropbox.com/s/exv5vtmbp46oyv3/Article%204.pdf?dl=1)
+  * Article 5 - [The Impact of Individual and Interpersonal Factors on Perceived News Media Bias (Eveland and Shah, 2003)](https://www.dropbox.com/s/tz5tamcpkxchdys/Article%205.pdf?dl=1)
 * Discuss students' answers to [Research Articles study guide](Study%20Guides/Research%20Articles.md)
 ### Thursday
 * Exam on Chapters 4 (Sparks), F (McQuail), and Research Articles
