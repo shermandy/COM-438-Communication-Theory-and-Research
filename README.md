@@ -48,6 +48,7 @@
 ## Week 8
 ### Tuesday
 * Discuss Research Articles
+** Article 1
 * Discuss students' answers to [Research Articles study guide](Study%20Guides/Research%20Articles.md)
 ### Thursday
 * Exam on Chapters 4 (Sparks), F (McQuail), and Research Articles
