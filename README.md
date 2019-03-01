@@ -55,7 +55,7 @@
   * Article 5 - [The Impact of Individual and Interpersonal Factors on Perceived News Media Bias (Eveland and Shah, 2003)](https://www.dropbox.com/s/tz5tamcpkxchdys/Article%205.pdf?dl=1)
 * Discuss students' answers to [Research Articles study guide](Study%20Guides/Research%20Articles.md)
 ### Thursday
-* Exam on Chapters 4 (Sparks), F (McQuail), and Research Articles
+* Exam on Chapters 4 (Sparks), F (McQuail), and Research Article Analysis
 ## Week 9
 ### Tuesday
 * Discuss Chapter 9 (Sparks)
