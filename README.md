@@ -58,7 +58,7 @@
 * Exam on Chapters 4 (Sparks), F (McQuail), and Research Article Analysis
 ## Week 9
 ### Tuesday
-* Discuss Chapter 9 (Sparks)
+* Discuss [Chapter 9, The Effects of News and Political Content](Study%20Guides/Chapter%209%2C%20Sparks.md), Sparks
 ### Thursday
 * Discuss Chapter G
 ## Week 10
