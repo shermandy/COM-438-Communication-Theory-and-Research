@@ -1,4 +1,4 @@
-# Chapter G - Topic
+# Chapter G - Agenda-Setting Theory
 1.	Why is Watergate an example of the power of the media?
 2.	Who are the two researchers behind Agenda Setting Theory? When did they propose the idea and what did they study?
 3.	What is the verbatim definition for Agenda Setting Theory?
