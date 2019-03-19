@@ -27,3 +27,11 @@
 26.	How do selective exposure and attention intersect?
 27.	What is the impact of vivid visuals on retention?
 28.	What type of images are the most memorable?
+29.	THINK: How can news producers use this information?
+30.	What examples of visuals in politics are provided as support for the power of image?
+31.	What were key principles of Tony Schwartz? THINK: How might they apply to your chosen field?
+32.	What impact does coverage of suicide have? How was the effect originally discovered (what method)? What is it called?
+33.	In Phillips research, what other media content were found to increase suicides?
+34.	THINK: Can you come up with an example where people have worried about imitation of media content (books, movies, tv, news)?
+35.	Is the media effect on suicides a rescheduling effect or additive effect? How do we know?
+36.	What are some limitations of studies into the Werther effect?
