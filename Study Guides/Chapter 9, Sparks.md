@@ -7,7 +7,7 @@
 6.	In your own words, summarize the concept of Agenda Setting
 7.	In your own words, summarize the concept of Framing
 8.	What findings did the study of framing in Iraq War coverage find? What impact might that have on audiences?
-9.	Of the examples of agenda-setting effects listed in the text, pick on and summarize it. 
+9.	Of the examples of agenda-setting effects listed in the text, pick one and summarize it. 
 10.	What is the academic reputation of agenda-setting theory?
 11.	THINK: How might agenda-setting theory apply to those hoping to have a career in public relations?
 12.	What is the “spiral of silence”? Who is the theorist behind it?
