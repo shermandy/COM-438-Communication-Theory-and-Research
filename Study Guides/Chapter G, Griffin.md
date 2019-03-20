@@ -25,3 +25,10 @@
 24.	THINK: how does second level agenda setting and public relations intersect?
 25.	What evidence supports the fact that these frames change people’s minds?
 26.	THINK: “Framing is not an option.” Why?
+27.	What is McCombs and Shaw’s updated definition?
+28.	In what ways has media coverage been shown to affect behavior? THINK: Provide another possible example not found in the text. 
+29.	 How do first and second level agenda setting and sports intersect?
+30.	New research suggests the agenda setting power is waning. Why? How was this discovered?
+31.	THINK: What previous media theory is hinted at as for the reason why new technologies undermine agenda setting?
+32.	THINK: Is Agenda Setting limited effects or no?
+33.	THINK: Hypothetically, how would *you* test the basic hypothesis of Agenda Setting Theory for WU students during the current primary season? (provide a basic research design)
