@@ -61,7 +61,7 @@
 * Discuss Chapter 9, The Effects of News and Political Content, Sparks
 * Discuss students' answers to [Chapter 9 study guide](Study%20Guides/Chapter%209%2C%20Sparks.md)
 ### Thursday
-* Discuss [Chapter G, Agenda-Setting Theory, Wimmer and Dominick](https://www.dropbox.com/s/camdiygx0kcjcie/Ch%20G%20-%20Agenda%20Setting.pdf?dl=1)
+* Discuss [Chapter G, Agenda-Setting Theory, Griffin, Em](https://www.dropbox.com/s/cnxsllxixi12z5n/Ch%20G%2C%20Agenda-Setting.pdf?dl=1)
 * Discuss students' answers to [Chapter G study guide](Study%20Guides/Chapter%20G%2C%20Wimmer%20and%20Dominick.md)
 ## Week 10
 ### Tuesday
