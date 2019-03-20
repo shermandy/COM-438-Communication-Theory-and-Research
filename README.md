@@ -62,7 +62,7 @@
 * Discuss students' answers to [Chapter 9 study guide](Study%20Guides/Chapter%209%2C%20Sparks.md)
 ### Thursday
 * Discuss [Chapter G, Agenda-Setting Theory, Griffin, Em](https://www.dropbox.com/s/cnxsllxixi12z5n/Ch%20G%2C%20Agenda-Setting.pdf?dl=1)
-* Discuss students' answers to [Chapter G study guide](Study%20Guides/Chapter%20G%2C%20Wimmer%20and%20Dominick.md)
+* Discuss students' answers to [Chapter G study guide](Study%20Guides/Chapter%20G,%20Griffin.md)
 ## Week 10
 ### Tuesday
 * Discuss Chapter H
