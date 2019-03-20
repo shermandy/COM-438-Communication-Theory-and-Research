@@ -31,4 +31,4 @@
 30.	New research suggests the agenda setting power is waning. Why? How was this discovered?
 31.	THINK: What previous media theory is hinted at as for the reason why new technologies undermine agenda setting?
 32.	THINK: Is Agenda Setting limited effects or no?
-33.	THINK: Hypothetically, how would *you* test the basic hypothesis of Agenda Setting Theory for WU students during the current primary season? (provide a basic research design)
+33.	THINK: Hypothetically, how would *you* test the basic hypothesis of Agenda Setting Theory for WU students on a current issue? (provide a basic research design)
