@@ -1,4 +1,4 @@
-Chapter H - Media Content: Issues, Concepts and Methods of Analysis / Media Genres and Texts
+# Chapter H - Media Content: Issues, Concepts and Methods of Analysis / Media Genres and Texts
 1.	How does the concept of “factuality” inform the concept of objectivity?
 2.	What are three meanings of accuracy addressed in the text?
 3.	Why is completeness a difficult concept to define?
