@@ -65,7 +65,7 @@
 * Discuss students' answers to [Chapter G study guide](Study%20Guides/Chapter%20G,%20Griffin.md)
 ## Week 10
 ### Tuesday
-* Discuss [Chapter H, Media Content](https://www.dropbox.com/s/ct7qpnlvzjk1ap7/CH%20H%2C%20Media%20Content.pdf?dl=1)
+* Discuss [Chapter H, Media Content](https://www.dropbox.com/s/ct7qpnlvzjk1ap7/CH%20H%2C%20Media%20Content.pdf?dl=1), McQuail
 * Discuss students' answers to [Chapter H study guide](Study%20Guides/Chapter%20H,%20McQuail.md)
 ### Thursday
 * Exam on Chapters 9, G, and H
