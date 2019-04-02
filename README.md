@@ -78,10 +78,10 @@
 ## Week 12
 ### Tuesday
 * Discuss Chapter 8, Persuasive Effects of Media, Sparks (continued)
-* Discuss students' answers to [Chapter 8 study guide](Study%20Guides/Chapter%208%2C%20Sparks.md) - Questions 26-49
+* Discuss students' answers to [Chapter 8 study guide](Study%20Guides/Chapter%208%2C%20Sparks.md#questions-for-tuesday-april-9) - Questions 26-49
 ### Thursday
 * Discuss Chapter 12 and Chapter I
-* Discss students' answers to Chapter 12 study guide
+* Discuss students' answers to Chapter 12 study guide
 ## Week 13
 ### Tuesday
 * Review for Exam 6
