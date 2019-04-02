@@ -81,7 +81,7 @@
 * Discuss students' answers to [Chapter 8 study guide](Study%20Guides/Chapter%208%2C%20Sparks.md#questions-for-tuesday-april-9) - Questions 26-49
 ### Thursday
 * Discuss Chapter 12 and Chapter I
-* Discuss students' answers to Chapter 12 study guide
+* Discuss students' answers to [Chapter 12 study guide](Study%20Guides/Chapter%2012%2C%20Sparks.md)
 ## Week 13
 ### Tuesday
 * Review for Exam 6
