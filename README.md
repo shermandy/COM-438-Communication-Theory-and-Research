@@ -73,10 +73,23 @@
 ### Tuesday
 * Exam on Chapters 9, G, and 
 ### Thursday
-* Discuss Chapter 8
-* Discuss students' answers to Chapter 8 study guide
+* Discuss Chapter 8, Persuasive Effects of Media, Sparks
+* Discuss students' answers to [Chapter 8 study guide](Study%20Guides/Chapter%208%2C%20Sparks.md) - Questions 1-25
 ## Week 12
 ### Tuesday
+* Discuss Chapter 8, Persuasive Effects of Media, Sparks (continued)
+* Discuss students' answers to [Chapter 8 study guide](Study%20Guides/Chapter%208%2C%20Sparks.md) - Questions 26-49
+### Thursday
 * Discuss Chapter 12 and Chapter I
+* Discss students' answers to Chapter 12 study guide
+## Week 13
+### Tuesday
+* Review for Exam 6
 ### Thursday
 * Exam on Chapters 8 and 12
+## Week 14
+### Tuesday
+* Review for final exam
+### Thursday
+* Review for final exam
+## Final exam - Tuesday, April 30 at 8:30am
