@@ -1,5 +1,5 @@
 # Chapter 12 - Meeting Marshall McCluhan
-Also read [Chapter I, Media Ecology of Marshall McLuhan](https://www.dropbox.com/s/9r03r5xjgadaodk/Ch%20I%2C%20Media%20Ecology%20of%20Marshall%20McLuhan.pdf?dl=1). To better answer the questions below, focus on the sections "The Medium is the Message" and "A Media Analysis of Human History".
+Also read [Chapter I, Media Ecology of Marshall McLuhan](https://www.dropbox.com/s/9r03r5xjgadaodk/Ch%20I%2C%20Media%20Ecology%20of%20Marshall%20McLuhan.pdf?dl=1). To better answer the questions below, focus on the sections "The Medium is the Message" (pgs. 1-2) and "A Media Analysis of Human History" (pgs. 3-8).
 1.	How does Marshall McLuhan differ fundamentally from other researchers studied?
 2.	Despite its apparent fundamental flaw, why are McLuhan’s ideas still widely studied and supported?
 3.	What makes McLuhan’s arguments about the impact of media on humanity difficult to digest?
