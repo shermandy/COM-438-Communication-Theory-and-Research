@@ -68,12 +68,13 @@
 * Discuss [Chapter H, Media Content](https://www.dropbox.com/s/ct7qpnlvzjk1ap7/CH%20H%2C%20Media%20Content.pdf?dl=1), McQuail
 * Discuss students' answers to [Chapter H study guide](Study%20Guides/Chapter%20H,%20McQuail.md)
 ### Thursday
-* Exam on Chapters 9, G, and H
+* Review session for Exam 5
 ## Week 11
 ### Tuesday
-* Discuss Chapter 8
+* Exam on Chapters 9, G, and 
 ### Thursday
-* Discuss Chapter 8 (continued)
+* Discuss Chapter 8
+* Discuss students' answers to Chapter 8 study guide
 ## Week 12
 ### Tuesday
 * Discuss Chapter 12 and Chapter I
