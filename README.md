@@ -71,7 +71,7 @@
 * Review session for Exam 5
 ## Week 11
 ### Tuesday
-* Exam on Chapters 9, G, and 
+* Exam on Chapters 9, G, and H
 ### Thursday
 * Discuss Chapter 8, Persuasive Effects of Media, Sparks
 * Discuss students' answers to [Chapter 8 study guide](Study%20Guides/Chapter%208%2C%20Sparks.md) - Questions 1-25
