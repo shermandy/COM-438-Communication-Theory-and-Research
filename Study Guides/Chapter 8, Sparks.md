@@ -1,5 +1,5 @@
 # Chapter 8 - Persuasive Effects of Media
-## Questions for Thursday, April 2
+## Questions for Thursday, April 4
 1.	Define the three dimensions of persuasion
 2.	Does persuasion have to be intentional? Why or why not?
 3.	What is the ELM?
