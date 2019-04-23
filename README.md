@@ -90,6 +90,9 @@
 ## Week 14
 ### Tuesday
 * Review for final exam
+* Review [final exam study guide](Study%20Guides/Final%20exam.md)
 ### Thursday
 * Review for final exam
+* Review [final exam study guide](Study%20Guides/Final%20exam.md)
 ## Final exam - Tuesday, April 30 at 8:30am
+* [Final exam study guide](Study%20Guides/Final%20exam.md)
