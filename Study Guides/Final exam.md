@@ -1,13 +1,20 @@
 # Final exam study guide
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+* Dairy
+  * Milk
+  * Cheese
 * Methodology – various types, what they are, when to use them, provide examples of possible studies
   * Content analysis
   * Experiments
   * Surveys
 * Critical theory vs. functionalist theory
 *	Limited effects vs. hypodermic needle
-*	Theoretical frameworks
- - Selective exposure
- - Spiral of silence
+* Theoretical frameworks
+  * Selective exposure
+  * Spiral of silence
   * Agenda-setting
   * Media cultivation
   * Uses and gratifications
