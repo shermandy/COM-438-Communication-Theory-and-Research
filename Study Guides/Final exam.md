@@ -1,6 +1,6 @@
 # Final exam study guide
-•	Methodology – various types, what they are, when to use them, provide examples of possible studies
-o	Content analysis
+* Methodology – various types, what they are, when to use them, provide examples of possible studies
+  * Content analysis
 o	Experiments
 o	Surveys
 •	Critical theory vs. functionalist theory
