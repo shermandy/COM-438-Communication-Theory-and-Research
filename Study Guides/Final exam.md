@@ -6,8 +6,8 @@
 * Critical theory vs. functionalist theory
 *	Limited effects vs. hypodermic needle
 *	Theoretical frameworks
- * Selective exposure
-  * Spiral of silence
+ - Selective exposure
+ - Spiral of silence
   * Agenda-setting
   * Media cultivation
   * Uses and gratifications
