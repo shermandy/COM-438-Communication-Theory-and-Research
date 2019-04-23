@@ -1,11 +1,4 @@
 # Final exam study guide
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
 * Methodology – various types, what they are, when to use them, provide examples of possible studies
   * Content analysis
   * Experiments
